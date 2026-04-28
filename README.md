@@ -1,2 +1,2 @@
 # Flow
-Very simple app on UIKit, using MVVM structure and DiffableDataSource.
+Very simple ToDo app on UIKit, using MVVM structure and DiffableDataSource.
